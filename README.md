@@ -4,7 +4,7 @@
 
 Experienced Software Quality Assurance Engineer with 5+ years of expertise in Web & Mobile Application Testing, Manual Testing, Automation Testing, API Testing, and Performance Testing. Skilled in delivering stable, scalable, and secure software solutions through comprehensive quality assurance processes.
 
-Additionally experienced in Security Testing, Vulnerability Assessment & Penetration Testing (VAPT), including OWASP Top 10-based security testing, risk analysis, and remediation validation.
+Additionally 2+ years experienced in Security Testing, Vulnerability Assessment & Penetration Testing (VAPT), including OWASP Top 10-based security testing, risk analysis, and remediation.
 
 ---
 

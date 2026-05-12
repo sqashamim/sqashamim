@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samsuzzoha Shamim
 
-## Senior SQA Engineer | Automation Engineer | Security & VAPT Enthusiast
+## SQA Engineer | Software Security Engineer
 
 Experienced Software Quality Assurance Engineer with 5+ years of expertise in Web & Mobile Application Testing, Manual Testing, Automation Testing, API Testing, and Performance Testing. Skilled in delivering stable, scalable, and secure software solutions through comprehensive quality assurance processes.
 

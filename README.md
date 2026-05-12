@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Samsuzzoha Shamim
+# 👋 Hi, I'm SAMSUZZOHA SHAMIM
 
 ## SQA Engineer | Software Security Engineer
 
